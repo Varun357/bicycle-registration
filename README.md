@@ -1,2 +1,4 @@
 # bicycle-registration
-Will Update...........
+Basic files
+<br>
+No admin Panel for Now!!!
